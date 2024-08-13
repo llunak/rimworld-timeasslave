@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Time As a Slave</name>
+    <author>llunak</author>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+    <packageId>llunak.TimeAsSlave</packageId>
+    <modDependencies>
+        <li>
+            <packageId>Ludeon.Rimworld.Ideology</packageId>
+            <displayName>Ideology</displayName>
+        </li>
+    </modDependencies>
+    <loadAfter>
+        <li>Ludeon.RimWorld.Ideology</li>
+    </loadAfter>
+    <description>This simple mod provides a 'Time as a slave' record for each pawn.
+
+The game provides per-pawn records such as 'Time as a colonist', 'Time hauling', etc., but when Ideology introduced slavery, it omitted adding 'Time as a slave' record. This mod adds that.
+
+GitHub: https://github.com/llunak/rimworld-timeasslave
+
+</description>
+</ModMetaData>
