@@ -19,6 +19,8 @@
 
 The game provides per-pawn records such as 'Time as a colonist', 'Time hauling', etc., but when Ideology introduced slavery, it omitted adding 'Time as a slave' record. This mod adds that.
 
+This mod is also a weak dependency for the 'More Precepts' mod - if a 'Newcomer Attitude' precept is used, it uses this mod to count correctly stay at the colony for slaves.
+
 GitHub: https://github.com/llunak/rimworld-timeasslave
 
 </description>
