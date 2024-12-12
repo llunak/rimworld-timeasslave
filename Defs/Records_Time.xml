@@ -7,4 +7,11 @@
     <type>Time</type>
     <workerClass>TimeAsSlave.RecordWorker_TimeAsSlave</workerClass>
   </RecordDef>
+  <RecordDef>
+    <defName>TimeAsVisitor</defName>
+    <label>time as a visitor</label>
+    <description>Total time spent as a visitor of your community.</description>
+    <type>Time</type>
+    <workerClass>TimeAsSlave.RecordWorker_TimeAsVisitor</workerClass>
+  </RecordDef>
 </Defs>

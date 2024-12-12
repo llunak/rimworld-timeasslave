@@ -15,9 +15,9 @@
     <loadAfter>
         <li>Ludeon.RimWorld.Ideology</li>
     </loadAfter>
-    <description>This simple mod provides a 'Time as a slave' record for each pawn.
+    <description>This simple mod provides 'Time as a slave' and 'Time as a visitor' records for each pawn.
 
-The game provides per-pawn records such as 'Time as a colonist', 'Time hauling', etc., but when Ideology introduced slavery, it omitted adding 'Time as a slave' record. This mod adds that.
+The game provides per-pawn records such as 'Time as a colonist', 'Time hauling', etc., but when Ideology introduced slavery, it omitted adding 'Time as a slave' record. This mod adds that. It also adds 'Time as a visitor'.
 
 This mod is also a weak dependency for the 'More Precepts' mod - if a 'Newcomer Attitude' precept is used, it uses this mod to count correctly stay at the colony for slaves.
 
